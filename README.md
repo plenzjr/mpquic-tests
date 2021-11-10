@@ -7,5 +7,6 @@ python3 -m pip install numpy
 
 * RUN SCRIPT FOR ALL SCENARIOS
 ```bash
-python3 -m pip install numpy
+$ chmod +x run.sh
+$ ./run.sh
 ```
